@@ -1,3 +1,3 @@
 # njrat-by-USA
-pass 1
-пароль 1
+no pass 
+нет пароля
